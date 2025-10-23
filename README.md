@@ -1,1 +1,5 @@
 # ICICI-Bank-Equity-Research-Report
+
+This project presents a comprehensive **fundamental and valuation analysis** of *ICICI Bank Ltd.*, aimed at assessing its investment potential. The study integrates financial ratio analysis, industry evaluation, and multiple valuation techniques including **P/E, P/B, and Dividend Discount Model (DDM)** based on the **Gordon Growth framework**. Using data from ICICI’s annual reports (FY2020–FY2024), the research highlights key performance metrics such as **ROE, ROA, NIM, CASA ratio, GNPA/NNPA, and Provision Coverage Ratio (PCR)**, reflecting a consistent improvement in profitability and asset quality.
+
+The valuation results indicate a **fair value estimate of ₹1,420–₹1,640** per share against the prevailing market price of ₹1,275, leading to a **BUY recommendation**. The project demonstrates practical application of equity valuation, financial modeling, and sectoral analysis within the Indian banking context, closely resembling the approach used by professional equity research analysts.
